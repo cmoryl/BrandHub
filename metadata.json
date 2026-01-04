@@ -1,0 +1,5 @@
+{
+  "name": "BrandHub",
+  "description": "A centralized platform to manage brand assets, guidelines, and generate on-brand content using Gemini AI.",
+  "requestFramePermissions": []
+}
